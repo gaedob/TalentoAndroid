@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DesafioFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Recuerda que para que la contraseña sea segura debe cumplir con estas características</string>
+    <string name="hello_blank_fragment2"> > Al menos, 5 caracteres</string>
+    <string name="hello_blank_fragment3"> > Al menos, 1 letra Mayúscula</string>
+
+    <string name="hello_blank_fragment4">Otras caracteristicas que hacen la contraseña segura</string>
+    <string name="hello_blank_fragment5"> > Al menos, 1 caracter especial(como ., % $)</string>
+    <string name="hello_blank_fragment6"> > Al menos, 1 Número</string>
+
+    <string name="hint_password">Ingrese PassWord</string>
+    <string name="msg_contrasena">La contraseña debe contener al menos 5 caracteres y una letra minúscula</string>
+</resources>
