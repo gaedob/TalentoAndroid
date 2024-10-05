@@ -75,12 +75,12 @@ public class SecondFragment extends Fragment {
 
 
 
-        registarButtonListener();
+        //registarButtonListener();
         return view;
        // return inflater.inflate(R.layout.fragment_second, container, false);
     }
 
-    private void registarButtonListener() {
+   /* private void registarButtonListener() {
         binding.btnGoBackHome.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -89,6 +89,8 @@ public class SecondFragment extends Fragment {
             }
         });
     }
+    */
+
 
     @Override
     public void onDestroyView() {
